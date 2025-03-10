@@ -8,7 +8,7 @@ namespace RecursoCSharp.Colections
 {
 
     /// <summary>
-    /// Estrutura chave valor Exemplo       
+    /// Estrutura chave valor - Utilizada para armazena dados       
     /// </summary>
     public static class Dictionary
     {
